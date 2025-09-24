@@ -8,7 +8,7 @@
 <body>
 <h1>张旭超牛逼！！！</h1>
 <h1>超级无敌吊炸天</h1> 
-<img src="./Image_314878674788152.jpg" width="400px" alt="">   
+<img src="./Image_314878674788152.jpg" width="200px" alt="">   
 </body>
 
 
