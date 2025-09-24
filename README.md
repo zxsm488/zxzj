@@ -4,11 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>张旭超牛逼</title>
-     <style type="text/css">
+    <style type="text/css">
     body{
         text-align: center;
         background-color: #2a2d3e;
+        color: white;
     }
+</style>
 </head>
 <body>
     <marquee>他竟然和我同名！</marquee>
