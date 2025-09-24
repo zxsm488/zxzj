@@ -4,6 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>张旭超牛逼</title>
+     <style type="text/css">
+    body{
+        text-align: center;
+        background-color: #2a2d3e;
+        color: white;
+    }
 </head>
 <body>
     <marquee>他竟然和我同名！</marquee>
@@ -13,6 +19,7 @@
 <h1>超级无敌吊炸天</h1>
 <img src="./Image_314878674788152.jpg" width="200px" alt="">   
 </body>
+    
 <i>快加入张旭之家，宝贝回家</i>
 
 
