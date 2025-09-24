@@ -8,7 +8,8 @@
 <body>
 <h1>张旭超牛逼！！！</h1>
 <h1>超级无敌吊炸天</h1>
-<marquee>张旭是我男神</marquee> <marquee>么么哒，宝宝</marquee> <marquee>张旭牛逼</marquee>
+<marquee>张旭是我男神</marquee>
+<marquee>张旭牛逼</marquee>
 
 <img src="./Image_314878674788152.jpg" width="200px" alt="">   
 </body>
