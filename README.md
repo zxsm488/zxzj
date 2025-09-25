@@ -7,13 +7,13 @@
     <style type="text/css">
     body{
         text-align: center;
-        background-color: #2a2d3e;
+        background-color: hsl(192, 51%, 56%);
         color: white;
         padding-top: 100px;
     }
     .box{
         width: 300px;
-        background-color: black;
+        background-color: rgba(0,0,0,.2);
         margin: 10px auto;
         border-radius: 20px;
         padding: 10px 0;
@@ -25,7 +25,3 @@
     <div class="box">
     <h1>张旭超级无敌吊炸天</h1>
     <p>张旭超牛逼</p>
-    
-</body>
- 
-</html>
