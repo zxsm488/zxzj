@@ -21,8 +21,8 @@
 </style>
 </head>
 <body>
+    <img src="./Image_314878674788152.jpg" width="200px" alt="">
     <div class="box">
-<img src="./Image_314878674788152.jpg" width="200px" alt="">
     <h1>张旭超级无敌吊炸天</h1>
     <p>张旭超牛逼</p>
     
