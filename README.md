@@ -9,23 +9,23 @@
         text-align: center;
         background-color: #2a2d3e;
         color: white;
+        padding-top: 100px;
+    }
+    .box{
+        width: 300px;
+        background-color: black;
+        margin: 10px auto;
+        border-radius: 20px;
+        padding: 10px 0;
     }
 </style>
 </head>
 <body>
-    <marquee>他竟然和我同名！</marquee>
-<marquee>张旭是我男神</marquee>
-<marquee>张旭牛逼</marquee>
-<h1>张旭超牛逼！！！</h1>
-<h1>超级无敌吊炸天</h1>
-<img src="./Image_314878674788152.jpg" width="200px" alt="">   
-</body>
- <p>【张旭】</p>   
-<i>快加入张旭之家，宝贝回家</i>
-
-
-
+    <div class="box">
+<img src="./Image_314878674788152.jpg" width="200px" alt="">
+    <h1>张旭超级无敌吊炸天</h1>
+    <p>张旭超牛逼</p>
     
-<h5>@胀续 制作</h5> <p>(2012-2025)</p>
-
+</body>
+ 
 </html>
